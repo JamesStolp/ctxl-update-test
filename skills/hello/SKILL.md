@@ -7,4 +7,4 @@ description: Test skill for validating plugin cache and update behavior. Reports
 
 This is version **0.2.0** of the update-test plugin.
 
-When invoked, say: "update-test plugin loaded — version 0.2.0"
+When invoked, say: "update-test plugin loaded — version 0.2.0 - CONTENT ONLY UPDATE"

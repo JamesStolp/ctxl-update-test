@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "jamesstolp-test",
+  "owner": {
+    "name": "JamesStolp"
+  },
+  "plugins": [
+    {
+      "name": "update-test",
+      "source": "./",
+      "description": "Minimal test plugin for validating Claude Code plugin cache and autoUpdate behavior."
+    }
+  ]
+}

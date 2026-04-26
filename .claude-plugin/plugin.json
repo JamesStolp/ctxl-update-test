@@ -1,6 +1,6 @@
 {
   "name": "update-test",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Minimal test plugin for validating Claude Code plugin cache and autoUpdate behavior.",
   "author": {
     "name": "JamesStolp"
